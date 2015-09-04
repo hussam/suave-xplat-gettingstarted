@@ -1,4 +1,4 @@
-# Suave.io on Azure with a 
+# Bootstrapping for Suave.io locally and on Azure.
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 

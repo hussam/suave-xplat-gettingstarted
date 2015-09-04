@@ -1,8 +1,9 @@
-# Suave.io on Azure and Heroku
+# Suave.io on Azure with a 
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-This site is based on [suavebootstrapper](https://github.com/shanselman/suavebootstrapper) by 
-[@shanselman](http://github.com/shanselman). It is a minimalistic sample that shows how to
-create Suave repository that can be hosted on both Azure and Heroku.
+This site is based on [suave-xplat-gettingstarted](https://github.com/hussam/suave-xplat-gettingstarted) by 
+[@tpetricek](http://github.com/tpetricek). It is a minimalistic sample that shows how to
+create a Suave repository that can be hosted locally and deployed to Azure.
+
+When deployed locally, FAKE will monitor app.fsx for any changes, and reload the server if the code changes.  
